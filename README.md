@@ -1,6 +1,10 @@
+
+# Tipos Merge dev 3
+
 # Modificacion 7 en Qa Tipos de merge
 
 # Modificacion 5 en Dev tipos de merge
+
 ## Nuevo cambio en branch
 
 # Cambio en games branch 1
