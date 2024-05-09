@@ -1,5 +1,3 @@
-
-# Modificacion 6 en Dev tipos de merg
 # Modificacion 7 en Qa Tipos de merge
 
 # Modificacion 5 en Dev tipos de merge
