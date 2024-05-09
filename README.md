@@ -1,3 +1,5 @@
+# Modificacion 2 en Qa Tipos de merge
+
 ## Nuevo cambio en branch
 
 # Cambio en games branch 1
